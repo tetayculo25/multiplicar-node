@@ -4,7 +4,8 @@
 
 Esta es una aplicacion para generar archivos de tablas de multiplicar
 
-Ejecutar estecomando
+Ejecutar este comando
+
 ...
 npm install
 ...
